@@ -1,0 +1,11 @@
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\bin\Debug\AplikasiCalculator.exe.config
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\bin\Debug\AplikasiCalculator.exe
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\bin\Debug\AplikasiCalculator.pdb
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\obj\Debug\AplikasiCalculator.csprojAssemblyReference.cache
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\obj\Debug\AplikasiCalculator.Calculator.resources
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\obj\Debug\AplikasiCalculator.frmHasilPerhitungan.resources
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\obj\Debug\AplikasiCalculator.Properties.Resources.resources
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\obj\Debug\AplikasiCalculator.csproj.GenerateResource.cache
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\obj\Debug\AplikasiCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\obj\Debug\AplikasiCalculator.exe
+C:\Users\Qadrian Pristiadi\Videos\project pemrog\AplikasiCalculator\obj\Debug\AplikasiCalculator.pdb
